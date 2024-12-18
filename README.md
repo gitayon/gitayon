@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gitayon
-- 👀 I’m interested in HTML, CSS, SEO, Digital Marketing, Canva, Git
+- 👀 I’m interested in HTML, CSS, SEO, Digital Marketing, Canva
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on GitHub
 - 😄 Pronouns: he/him
