@@ -1,11 +1,12 @@
-- 👋 Hi, I’m @gitayon
-- 👀 I’m interested in HTML, CSS, SEO, Digital Marketing, Canva
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on GitHub
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I write Poems
+# Hi!
 
-<!---
-gitayon/gitayon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My name is Ayon.
+
+<img src="dakkhinayon.jpg"
+     alt="Profile image - Ayon
+     height="300px" />
+
+
+# What do I do?
+My discipline is Philosophy at JnU
+# ⚡ Fun fact: I write poems
